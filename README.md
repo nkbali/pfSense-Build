@@ -2,7 +2,7 @@
 
 Here are the steps for building a pfSense ISO file. I followed [the guide of Augustin-FL](https://github.com/Augustin-FL/building-pfsense-iso-from-source) firstly, but there was missing things so I used his guide and added the missing bits to it. This guide has been written for 2.5.0 (which does not exist yet), but may works for other versions
 
-*Like for PiBa-NL guide, small disclaimer: Stuff might be missing, and stuff will change over time, and might not be updated.*
+*Like for Augustin-FL guide, small disclaimer: Stuff might be missing, and stuff will change over time, and might not be updated.*
 
 # First things first: choose a name for your product, and update repositories accordingly
 
